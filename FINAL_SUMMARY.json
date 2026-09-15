@@ -1,0 +1,72 @@
+{
+  "type": "study_solutions",
+  "title": "Python Beginner Practice: 10 Programs",
+  "repo_url": "https://github.com/abhinavpadige4/python-beginner-practice-10-programs",
+  "problems_solved": 10,
+  "files_created": [
+    {
+      "name": ".gitignore",
+      "description": "Git ignore file excluding Python cache and build files"
+    },
+    {
+      "name": "README.md",
+      "description": "Comprehensive README with program list, concepts covered, and instructions"
+    },
+    {
+      "name": "programs/01_print_numbers.py",
+      "description": "Simple for-loop to print numbers 1 to 10"
+    },
+    {
+      "name": "programs/02_sum_while.py",
+      "description": "While-loop to compute sum of a list of integers"
+    },
+    {
+      "name": "programs/03_multiplication_table.py",
+      "description": "Nested for-loops to print a multiplication table (1-10)"
+    },
+    {
+      "name": "programs/04_factorial_recursive.py",
+      "description": "Recursive factorial function"
+    },
+    {
+      "name": "programs/05_fibonacci_recursive.py",
+      "description": "Recursive Fibonacci (nth term)"
+    },
+    {
+      "name": "programs/06_reverse_string_recursive.py",
+      "description": "Recursive string reversal"
+    },
+    {
+      "name": "programs/07_dictionary_basics.py",
+      "description": "Dictionary basics - create, access, update, delete a student record"
+    },
+    {
+      "name": "programs/08_word_frequency.py",
+      "description": "Count word frequencies in a sentence using a dictionary"
+    },
+    {
+      "name": "programs/09_nested_dict_inventory.py",
+      "description": "Nest dictionaries - inventory of products with price and stock"
+    },
+    {
+      "name": "programs/10_dict_loop_threshold.py",
+      "description": "Loop over dictionary to find keys with values above threshold"
+    }
+  ],
+  "concepts_covered": [
+    "loops",
+    "recursion", 
+    "dictionaries",
+    "for-loop",
+    "while-loop",
+    "nested-loops",
+    "base-case",
+    "recursive-step",
+    "dictionary-creation",
+    "dictionary-access",
+    "dictionary-update",
+    "dictionary-deletion",
+    "nested-dictionaries",
+    "word-frequency"
+  ]
+}
